@@ -1,0 +1,19 @@
+# Python cache
+youtube_backend/__pycache__/
+youtube_backend/*.py[cod]
+
+# Virtual environment
+youtube_backend/myenv/
+
+# Environment variables
+youtube_backend/.env
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
